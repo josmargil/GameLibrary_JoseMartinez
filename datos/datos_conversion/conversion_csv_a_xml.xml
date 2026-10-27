@@ -1,0 +1,37 @@
+<videojuegos>
+  <videojuego>
+    <id>1</id>
+    <titulo>The Legend of Zelda: Breath of the Wild</titulo>
+    <genero>Aventura</genero>
+    <anio>2017</anio>
+    <nota>9.5</nota>
+  </videojuego>
+  <videojuego>
+    <id>2</id>
+    <titulo>Red Dead Redemption 2</titulo>
+    <genero>Acción</genero>
+    <anio>2018</anio>
+    <nota>9.7</nota>
+  </videojuego>
+  <videojuego>
+    <id>3</id>
+    <titulo>Hades</titulo>
+    <genero>Roguelike</genero>
+    <anio>2020</anio>
+    <nota>9.3</nota>
+  </videojuego>
+  <videojuego>
+    <id>4</id>
+    <titulo>Hollow Knight</titulo>
+    <genero>Plataformas</genero>
+    <anio>2017</anio>
+    <nota>9.1</nota>
+  </videojuego>
+  <videojuego>
+    <id>5</id>
+    <titulo>Celeste</titulo>
+    <genero>Plataformas</genero>
+    <anio>2018</anio>
+    <nota>8.9</nota>
+  </videojuego>
+</videojuegos>

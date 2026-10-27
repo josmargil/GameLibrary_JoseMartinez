@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "titulo": "The Legend of Zelda: Breath of the Wild",
+        "genero": "Aventura",
+        "anio": 2017,
+        "nota": 9.5
+    },
+    {
+        "id": 2,
+        "titulo": "Red Dead Redemption 2",
+        "genero": "Acción",
+        "anio": 2018,
+        "nota": 9.7
+    },
+    {
+        "id": 3,
+        "titulo": "Hades",
+        "genero": "Roguelike",
+        "anio": 2020,
+        "nota": 9.3
+    },
+    {
+        "id": 4,
+        "titulo": "Hollow Knight",
+        "genero": "Plataformas",
+        "anio": 2017,
+        "nota": 9.1
+    },
+    {
+        "id": 5,
+        "titulo": "Celeste",
+        "genero": "Plataformas",
+        "anio": 2018,
+        "nota": 8.9
+    }
+]
